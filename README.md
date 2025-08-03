@@ -1,5 +1,3 @@
-# Kūdō Notes
-
 Notes from Kūdō lessons taken between 2023 and 2025 at the Daido Juku Shibuya Branch in Tokyo, Japan.  
 [https://www.daidojuku.bex.jp/wp/](https://www.daidojuku.bex.jp/wp/)
 
